@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtgizaw
-- 👀 I’m interested in landing a job in data science.
-- 🌱 I’m currently learning about different educational opportunities in the data science field.
+- 👀 I’m interested in landing a job in software engineering.
+- 🌱 I’m currently pursuing a project where AI assists with JUnit testing for biomedical Java code.
 - 📫 LinkedIn: https://www.linkedin.com/in/martha-gizaw/
 
 <!---
